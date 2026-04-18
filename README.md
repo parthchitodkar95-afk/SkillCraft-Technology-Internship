@@ -33,4 +33,4 @@ Software Development Internship at SkillCraft Technology.
 
 ## Author
 Parth Jivan Chitodkar
-SkillCraft Technology - Software Development Intern
+[SkillCraft Technology - Software Development Intern]
